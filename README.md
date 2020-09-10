@@ -6,7 +6,7 @@ Multi-Scale Gradient Capsule GAN for Super-Resolution
 
 Please cite the following papers if you are using MSG-CapsGAN.
 
-1. MSG-CapsGAN: Multi-Scale Gradient Capsule GAN for Face Super Resolution
+1. [MSG-CapsGAN: Multi-Scale Gradient Capsule GAN for Face Super Resolution](https://ieeexplore.ieee.org/abstract/document/9051244)
 ```
 @inproceedings{majdabadi2020msg,
   title={MSG-CapsGAN: Multi-Scale Gradient Capsule GAN for Face Super Resolution},
@@ -17,7 +17,7 @@ Please cite the following papers if you are using MSG-CapsGAN.
   organization={IEEE}
 }
 ```
-2. Capsule GAN for robust face super resolution
+2. [Capsule GAN for robust face super resolution](https://link.springer.com/article/10.1007/s11042-020-09489-y)
 ```
 @article{majdabadi2020capsule,
   title={Capsule GAN for robust face super resolution},
