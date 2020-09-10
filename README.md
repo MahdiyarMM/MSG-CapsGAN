@@ -4,6 +4,9 @@
 
 Multi-Scale Gradient Capsule GAN for Super-Resolution
 
+Please cite the following papers if you are using MSG-CapsGAN.
+
+1. MSG-CapsGAN: Multi-Scale Gradient Capsule GAN for Face Super Resolution
 ```
 @inproceedings{majdabadi2020msg,
   title={MSG-CapsGAN: Multi-Scale Gradient Capsule GAN for Face Super Resolution},
@@ -14,6 +17,7 @@ Multi-Scale Gradient Capsule GAN for Super-Resolution
   organization={IEEE}
 }
 ```
+2. Capsule GAN for robust face super resolution
 ```
 @article{majdabadi2020capsule,
   title={Capsule GAN for robust face super resolution},
@@ -24,8 +28,8 @@ Multi-Scale Gradient Capsule GAN for Super-Resolution
   publisher={Springer}
 }
 ```
+[Lets go to Quora](https://www.quora.com)
 
-The
 
 - Preprint available on arXiv: [COVID-CXNet](https://arxiv.org/abs/2006.13807)
 - Quick look at the final best results on paperswithcode: [leaderboard](https://paperswithcode.com/paper/covid-cxnet-detecting-covid-19-in-frontal)
