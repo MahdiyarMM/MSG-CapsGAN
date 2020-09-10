@@ -30,3 +30,4 @@ Please cite the associated papers if you are using MSG-CapsGAN.
 ```
 
 The SRGAN implementation from [eriklindernoren](https://github.com/eriklindernoren/Keras-GAN/commits?author=eriklindernoren) is used as the backbone of the GAN model ([repository](https://github.com/eriklindernoren/Keras-GAN/tree/master/srgan)).
+The implemenation of CapsGAN from [Guseyn Gadirov](https://github.com/gusgad) were used for Capsule network ([repository](https://github.com/gusgad/capsule-GAN)).
