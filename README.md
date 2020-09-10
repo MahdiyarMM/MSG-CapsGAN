@@ -2,7 +2,30 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/armiro/COVID-CXNet/blob/master/LICENSE)
 ![license](https://img.shields.io/badge/development-100%25-yellow?style=flat-square)
 
-Detecting the novel coronavirus pneumonia in frontal chest X-ray images using transfer learning of CheXNet with a focus on Grad-CAM visualiztions. 
+Multi-Scale Gradient Capsule GAN for Super-Resolution
+
+```
+@inproceedings{majdabadi2020msg,
+  title={MSG-CapsGAN: Multi-Scale Gradient Capsule GAN for Face Super Resolution},
+  author={Majdabadi, Mahdiyar Molahasani and Ko, Seok-Bum},
+  booktitle={2020 International Conference on Electronics, Information, and Communication (ICEIC)},
+  pages={1--3},
+  year={2020},
+  organization={IEEE}
+}
+```
+```
+@article{majdabadi2020capsule,
+  title={Capsule GAN for robust face super resolution},
+  author={Majdabadi, Mahdiyar Molahasani and Ko, Seok-Bum},
+  journal={Multimedia Tools and Applications},
+  pages={1--14},
+  year={2020},
+  publisher={Springer}
+}
+```
+
+The
 
 - Preprint available on arXiv: [COVID-CXNet](https://arxiv.org/abs/2006.13807)
 - Quick look at the final best results on paperswithcode: [leaderboard](https://paperswithcode.com/paper/covid-cxnet-detecting-covid-19-in-frontal)
